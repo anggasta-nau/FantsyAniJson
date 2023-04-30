@@ -1,0 +1,64 @@
+{
+    "Fantasy": [
+     {
+       "id": 1,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-OVPsmFwRUz7t.jpg",
+       "imgBanner": "https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2021/08/12215329/Mashle-Magic-Muscles.jpg",
+       "title": "Mashle",
+       "genre" : "Action,Comedy,Fantasy",
+       "rating" : "4.5/5.0",
+       "release" : "2023",
+       "Deskripsi": "This is a world of magic. This is a world in which magic is casually used by everyone. In a deep, dark forest in this world of magic, there is a boy who is singlemindedly working out. His name is Mash Burnedead, and he has a secret. He can’t use magic. All he wanted was to live a quiet life with his family, but people suddenly start trying to kill him one day and he somehow finds himself enrolled in Magic School. "
+     },
+     {
+       "id": 2,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png",
+       "imgBanner": "https://assets-a1.kompasiana.com/items/album/2022/09/20/images-13-63293ad108a8b521d02b84b2.jpeg",
+       "title": "Hunter x Hunter",
+       "genre" : "Action,Adventure,Fantasy",
+       "rating" : "4.5/5.0",
+       "release" : "2011 -2014",
+       "Deskripsi": "A new adaption of the manga of the same name by Togashi Yoshihiro. A Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him. After becoming 12, Gon leaves his home and takes on the task of entering the Hunter exam, notorious for its low success rate and high probability of death to become an official Hunter. He befriends the revenge-driven Kurapika, the doctor-to-be Leorio and the rebellious ex-assassin Killua in the exam, with their friendship prevailing throughout the many trials and threats they come upon taking on the dangerous career of a Hunter."
+     },
+     {
+       "id": 3,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
+       "imgBanner": "https://cdn.technadu.com/wp-content/uploads/2022/01/Attack-on-Titan-Final-Season.jpg",
+       "title": "Attack on Titan The Final Season",
+       "genre" : "Action,Adventure,Fantasy",
+       "rating" : "4.5/5.0",
+       "release" : "Winter 2023",
+       "Deskripsi": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley. Now a motley crew of his former comrades and enemies scramble to halt his deadly mission, the only question is, can they stop him?"
+     },
+     {
+       "id": 4,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20751-O3XJ9u30y7Qj.png",
+      "imgBanner": "https://www.yualexius.com/wp-content/uploads/2017/04/3a9ae-mushishi2bginko-1024x576.jpg",
+       "title": "Mushishi Zoku Shou 2",
+       "genre" : "Adventure, Fantasy, Mystery",
+       "rating" : "4.5/5.0",
+       "release" : "Fall 2014",
+       "Deskripsi": "Second season of Mushishi Zoku Shou. Ghostly, primordial beings known as Mushi continue to cause mysterious changes in the lives of humans. The travelling Mushishi, Ginko, persists in trying to set right the strange and unsettling situations he encounters. Time loops, living shadows, and telepathy are among the overt effects of interference from Mushi, but more subtle symptoms that take years to be noticed also rouse Ginko's concern as he passes from village to village."
+     },
+     {
+       "id": 5,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154412-bEMQkJWOStDR.jpg",
+       "imgBanner" : "https://kanau.b-cdn.net/wp-content/uploads/2023/03/IMG_20230303_171738.jpg",
+       "title": "Megami no Cafe Terrace",
+       "genre" : "Comedy, Ecchi, Romance",
+       "rating" : "4.1/5.0",
+       "release" :"2023",
+       "Deskripsi": "After inheriting his late grandmother’s failing café, Hayato sees it as a bother and plans to sell it for a quick buck. Until he discovers five beautiful girls staying there! When they beg him to keep the café open, Hayato reluctantly gives in. Can he manage the seaside shop while learning to live with these unruly women?"
+     },
+     {
+       "id": 6,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114745-APZN90WhNMAD.jpg",
+       "imgBanner": "https://i.ytimg.com/vi/C0T_cP_dt84/maxresdefault.jpg",
+       "title": "Made in Abyss Season 2nd",
+       "genre" : "Adventure, Drama, Fantasy",
+       "rating" : "4.8/5.0",
+       "release" : "Summer 2022",
+       "Deskripsi": "The second season of Made in Abyss. Directly after the events of Made in Abyss: Fukaki Tamashii no Reimei, the third installment of Made in Abyss covers the adventures of Reg, Riko, and Nanachi in the Sixth Layer, The Capital of the Unreturned. Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode."
+     }
+   ]
+ }
